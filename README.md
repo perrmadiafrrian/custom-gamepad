@@ -1,1 +1,1 @@
-# Custom Gamepad for [Gamepadviewer](https://gamepadviewer.com/)
+# Custom Xbox One Skin for [Gamepad Viewer](https://gamepadviewer.com/)
